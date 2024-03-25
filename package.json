@@ -1,0 +1,17 @@
+{
+  "name": "first-bolt-app",
+  "version": "1.0.0",
+  "description": "new beginnings of bolt app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deviant",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.17.1",
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "node-schedule": "^2.1.1"
+  }
+}

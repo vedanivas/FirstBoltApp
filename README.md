@@ -28,10 +28,10 @@ Start by cloning this repository:
 
 ```zsh
 # Clone this project onto your machine
-$ git clone https://github.com/vedanivas/FirstSlackBot.git
+$ git clone https://github.com/vedanivas/FirstBoltApp.git
 
 # Change into the project directory
-$ cd FirstSlackBot
+$ cd FirstBoltApp
 
 # Install the required npm packages
 $ npm i
